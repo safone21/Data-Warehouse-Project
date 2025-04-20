@@ -1,11 +1,10 @@
 # Data-Warehouse-Project
 
-# 📦 Modern Data Warehouse & Analytics Portfolio Project
+# 📦 Modern Data Warehouse Project
 
-Welcome to the **Modern Data Warehouse & Analytics Project**, a hands-on portfolio project that walks through the complete lifecycle of a data warehouse solution—designed to showcase your skills in **data engineering**, **data modeling**, and **SQL analytics**.
+The Modern Data Warehouse Project is a comprehensive, hands-on implementation that demonstrates the full lifecycle of a data warehouse solution.
 
-This project leverages the **Medallion Architecture** to process and transform data from raw CSV files into a business-ready data model, enabling actionable reporting and insights.
-
+This project utilizes the Medallion Architecture to ingest and process raw CSV files, transforming them into a structured, business-ready data model. The resulting architecture supports efficient reporting, analytics, and actionable insights.
 ---
 
 ## 🌐 Project Highlights
