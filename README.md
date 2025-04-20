@@ -1,10 +1,11 @@
 # Data-Warehouse-Project
 
-# 📦 Modern Data Warehouse Project
+## 📦 Modern Data Warehouse Project
 
 The Modern Data Warehouse Project is a comprehensive, hands-on implementation that demonstrates the full lifecycle of a data warehouse solution.
 
 This project utilizes the Medallion Architecture to ingest and process raw CSV files, transforming them into a structured, business-ready data model. The resulting architecture supports efficient reporting, analytics, and actionable insights.
+
 ---
 
 ## 🌐 Project Highlights
