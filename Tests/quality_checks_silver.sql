@@ -34,9 +34,9 @@ HAVING COUNT(*) > 1 OR cst_id IS NULL;
 -- 2. Check for Unwanted Spaces
 -- Expectation: No Results
 SELECT 
-    cst_key 
+    cst_firstname 
 FROM silver.crm_cust_info
-WHERE cst_key != TRIM(cst_key);
+WHERE cst_firstname != TRIM(cst_firstname);
 
 -- 3. Data Standardization & Consistency
 SELECT DISTINCT 
