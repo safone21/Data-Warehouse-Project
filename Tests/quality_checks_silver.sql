@@ -139,3 +139,14 @@ WHERE bdate < '1899-01-01'
 SELECT DISTINCT 
     gen 
 FROM silver.erp_cust_az12;
+
+
+
+-- ====================================================================
+-- Checking 'silver.erp_loc_a101'
+-- ====================================================================
+--1. Data Standardization & Consistency
+SELECT DISTINCT 
+    cntry 
+FROM silver.erp_loc_a101
+ORDER BY cntry;
