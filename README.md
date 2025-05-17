@@ -31,18 +31,6 @@ The project adopts a layered **Medallion Architecture** approach:
 
 ---
 
-## 🔍 What You'll Learn
-
-This project is ideal for practicing or demonstrating expertise in:
-
-- ✅ **SQL Development & ETL Processes**
-- ✅ **Data Modeling & Star Schema Design**
-- ✅ **Modern Data Architecture Principles**
-- ✅ **Data Cleaning & Transformation**
-- ✅ **Business Intelligence Reporting**
-
----
-
 ## 🚀 Getting Started
 
 ### ⚙️ Prerequisites
@@ -98,16 +86,6 @@ To run this project locally, you'll need:
 - Surrogate Keys & Primary Keys
 - Fact and Dimension Tables
 - SQL Joins, Aggregations & Window Functions
-
----
-
-## 📘 Documentation
-
-The `Documents/` folder contains:
-
-- 📊 `data_models.png` – Star schema for analytics
-- 🧱 `data_architecture.png` – Full Medallion architecture diagram
-- 📎 `naming-conventions.md` – Consistent rules for naming objects
 
 ---
 
