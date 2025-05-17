@@ -142,6 +142,6 @@ Have ideas to improve this project? Found an issue or want to collaborate?
 
 You're welcome to open an issue, fork the repo, or reach out directly.
 
-Let's connect on **GitHub** or **LinkedIn** and grow together in the world of data!
+Let's connect on **GitHub** or **LinkedIn**!
 
 ---
